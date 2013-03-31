@@ -1,0 +1,5 @@
+G:\Projects\Snappers\Snappers\bin\Debug\Snappers.dll
+G:\Projects\Snappers\Snappers\bin\Debug\Snappers.pdb
+G:\Projects\Snappers\Snappers\obj\Debug\Snappers.csprojResolveAssemblyReference.cache
+G:\Projects\Snappers\Snappers\obj\Debug\Snappers.dll
+G:\Projects\Snappers\Snappers\obj\Debug\Snappers.pdb
